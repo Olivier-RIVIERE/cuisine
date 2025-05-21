@@ -1,27 +1,27 @@
 ![Logo](./public/img/logo_perso.jpg)
 
 # 🍽️ Mini-Gestion Cuisine ~ Olivier RIVIERE
-Bienvenue dans mon projet d’évaluation PHP/MySQL ! 👨‍🍳 Ce mini-système de gestion permet d’administrer une base de données gastronomique avec une interface simple, une authentification sécurisée et des interactions CRUD complètes.
+Welcome to my PHP/MySQL evaluation project! 👨‍🍳 This mini-management system allows you to manage a gastronomic database with a clean interface, secure authentication, and full CRUD operations.
 
-## 🌟 Fonctionnalités
-🧑‍🍳 Gestion des cuisiniers : inscription, connexion, modification du profil (email, mot de passe, avatar).
+## 🌟 Features
+🧑‍🍳 Chef Management: registration, login, profile editing (email, password, avatar).
 
-🍛 Gestion des plats : ajout, affichage, modification et suppression des plats (CRUD complet).
+🍛 Dish Management: add, view, edit, and delete dishes (full CRUD).
 
-🔐 Authentification : système de connexion sécurisé avec mot de passe hashé.
+🔐 Authentication: secure login system with hashed passwords.
 
-🎨 Design responsive : interface propre et moderne grâce à Tailwind CSS.
+🎨 Responsive Design: clean and modern UI built with Tailwind CSS.
 
-## 🚀 Technologies Utilisées
-🐘 PHP : langage serveur principal.
+## 🚀 Technologies Used
+🐘 PHP : main backend language.
 
-🗄️ MySQL : gestion de la base de données relationnelle.
+🗄️ MySQL : relational database.
 
-💡 PDO : requêtes préparées sécurisées.
+💡 PDO : secure prepared statements.
 
-🖼️ Tailwind CSS : design moderne et responsive.
+🖼️ Tailwind CSS : modern, responsive styling.
 
-📦 MVC simplifié : séparation du code en views/, controllers/, models/.
+📦 Simplified MVC: code structured into views/, controllers/, models/.
 
 ## Screenshots
 
@@ -32,7 +32,7 @@ Bienvenue dans mon projet d’évaluation PHP/MySQL ! 👨‍🍳 Ce mini-systè
 
 
 ## 📝 Licence
-Projet réalisé dans le cadre d'une évaluation de formation. Libre à consultation, non destiné à un usage en production.
+This project was created as part of a training evaluation. Free to consult, not intended for production use.
 
 ## 🔗 Liens utiles
 - 💻 [Live Portfolio](https://portfolio-olivier-riviere.vercel.app/)
