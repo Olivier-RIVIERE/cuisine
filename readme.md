@@ -35,6 +35,6 @@ Bienvenue dans mon projet d’évaluation PHP/MySQL ! 👨‍🍳 Ce mini-systè
 Projet réalisé dans le cadre d'une évaluation de formation. Libre à consultation, non destiné à un usage en production.
 
 ## 🔗 Liens utiles
-- 💻 [Live Portfolio](https://your-portfolio.vercel.app/)
+- 💻 [Live Portfolio](https://portfolio-olivier-riviere.vercel.app/)
 - 📧 [Contact Me](mailto:olivier.riviere.dev@gmail.com)
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/olivierriviere/)
